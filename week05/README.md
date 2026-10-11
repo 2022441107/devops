@@ -6,6 +6,7 @@
 - GitHub Issue로 실습 관리하기
 
 - 혼자서 해보기
+- 
 HTTP/1.1 200 OK
 Server: nginx/1.31.6
 Date: Sun, 11 Oct 2026 07:56:49 GMT

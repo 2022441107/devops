@@ -10,3 +10,4 @@
 - 4주차 : 셸 자동화, 프로세스와 백업, Git/GitHub 협업 (Conflict, Merge)
 - 5주차 : Docker 명령어와 컨테이너 실습, GitHub Issue로 실습 관리하기
 - 6주차 : 도커 이미지 활용
+- 7주차 : 도커 컴포즈, 스케일, AI
